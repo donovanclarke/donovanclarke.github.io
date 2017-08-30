@@ -1,0 +1,6 @@
+/* for mobile devices */
+@media(max-width: 960px) {
+  .pv7-ns {
+    padding: 8rem 0;
+  }
+}
