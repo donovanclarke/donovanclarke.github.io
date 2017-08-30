@@ -1,4 +1,7 @@
 /* for mobile devices */
+.hero-bg-1 {
+  background-image: linear-gradient( 135deg, #FD6E6A 10%, #FFC600 100%);
+}
 @media(max-width: 960px) {
   .pv7-ns {
     padding: 8rem 0;
