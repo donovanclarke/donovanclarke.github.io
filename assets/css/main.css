@@ -159,6 +159,9 @@
   .pl7 {
     padding-left: 0 !important;
   }
+  .mobile-center {
+    text-align: center;
+  }
 }
 @media(min-width: 1200px) {
   .hero-bg-height {
