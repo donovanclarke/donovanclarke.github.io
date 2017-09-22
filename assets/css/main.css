@@ -120,14 +120,14 @@
   }
 }
 @media(max-width: 1400px) {
+  .hero-bg-height {
+    height: 350px;
+  }
   .laptop-wrapper {
     width: 40rem;
   }
 }
 @media(max-width: 1200px) {
-  .hero-bg-height {
-    height: 400px;
-  }
   .laptop-wrapper {
     width: 30rem;
   }
@@ -148,6 +148,9 @@
   }
 }
 @media(max-width: 960px) {
+  .hero-bg-height {
+    height: 400px;
+  }
 }
 @media(max-width: 600px) {
   .laptop-wrapper {
@@ -159,6 +162,6 @@
 }
 @media(min-width: 1200px) {
   .hero-bg-height {
-    height: 500px;
+    height: 450px;
   }
 }
