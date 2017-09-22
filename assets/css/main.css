@@ -1,6 +1,9 @@
 .hero-bg-1 {
   background-image: linear-gradient( 135deg, #FD6E6A 10%, #FFC600 100%);
 }
+.bg-g {
+  background: #3ecf8e;
+}
 .hero-bg-1:before {
     content: '';
     width: 100%;
@@ -14,6 +17,9 @@
 }
 .ts {
   text-shadow: 0 1px 2px rgba(0,0,0,.5);
+}
+.w250 {
+  width: 250px;
 }
 .background {
   background-color: #fff;
